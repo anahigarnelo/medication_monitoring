@@ -1,21 +1,21 @@
-patient_id,dosage,medication,administered_at,prescribed_dosage,prescribing_doctor,patient_age,patient_weight
-P001,152,Ibuprofen,2024-08-01 00:00:00,570,Dr. Jones,23,72
-P002,398,Amoxicillin,2024-08-01 12:00:00,489,Dr. Smith,21,89
-P003,320,Amoxicillin,2024-08-02 00:00:00,474,Dr. Jones,25,70
-P004,156,Aspirin,2024-08-02 12:00:00,350,Dr. Smith,73,65
-P005,121,Aspirin,2024-08-03 00:00:00,663,Dr. Jones,61,94
-P006,238,Amoxicillin,2024-08-03 12:00:00,354,Dr. Taylor,23,67
-P007,70,Ibuprofen,2024-08-04 00:00:00,543,Dr. Taylor,73,96
-P008,152,Ibuprofen,2024-08-04 12:00:00,619,Dr. Brown,48,73
-P009,171,Aspirin,2024-08-05 00:00:00,430,Dr. Taylor,37,75
-P010,264,Amoxicillin,2024-08-05 12:00:00,606,Dr. Brown,45,74
-P011,380,Aspirin,2024-08-06 00:00:00,434,Dr. Taylor,63,94
-P012,137,Aspirin,2024-08-06 12:00:00,320,Dr. Smith,53,90
-P013,149,Paracetamol,2024-08-07 00:00:00,628,Dr. Taylor,29,78
-P014,201,Paracetamol,2024-08-07 12:00:00,466,Dr. Brown,55,64
-P015,180,Paracetamol,2024-08-08 00:00:00,573,Dr. Brown,33,94
-P016,199,Ibuprofen,2024-08-08 12:00:00,687,Dr. Jones,50,50
-P017,358,Amoxicillin,2024-08-09 00:00:00,388,Dr. Smith,67,74
-P018,307,Amoxicillin,2024-08-09 12:00:00,615,Dr. Taylor,34,56
-P019,393,Amoxicillin,2024-08-10 00:00:00,313,Dr. Jones,27,58
-P020,343,Amoxicillin,2024-08-10 12:00:00,541,Dr. Taylor,33,73
+patient_id,dosage,medication,administered_at,prescribed_dosage,prescribing_doctor,patient_age,patient_weight,schedule_adherence
+P001,152,Ibuprofen,2024-08-01 00:00:00,570,Dr. Jones,23,72,On Time
+P002,398,Amoxicillin,2024-08-01 12:00:00,489,Dr. Smith,21,89,Late
+P003,320,Amoxicillin,2024-08-02 00:00:00,474,Dr. Jones,25,70,On Time
+P004,156,Aspirin,2024-08-02 12:00:00,350,Dr. Smith,73,65,On Time
+P005,121,Aspirin,2024-08-03 00:00:00,663,Dr. Jones,61,94,On Time
+P006,238,Amoxicillin,2024-08-03 12:00:00,354,Dr. Taylor,23,67,On Time
+P007,70,Ibuprofen,2024-08-04 00:00:00,543,Dr. Taylor,73,96,On Time
+P008,152,Ibuprofen,2024-08-04 12:00:00,619,Dr. Brown,48,73,Late
+P009,171,Aspirin,2024-08-05 00:00:00,430,Dr. Taylor,37,75,On Time
+P010,264,Amoxicillin,2024-08-05 12:00:00,606,Dr. Brown,45,74,On Time
+P011,380,Aspirin,2024-08-06 00:00:00,434,Dr. Taylor,63,94,On Time
+P012,137,Aspirin,2024-08-06 12:00:00,320,Dr. Smith,53,90,Late
+P013,149,Paracetamol,2024-08-07 00:00:00,628,Dr. Taylor,29,78,Late
+P014,201,Paracetamol,2024-08-07 12:00:00,466,Dr. Brown,55,64,On Time
+P015,180,Paracetamol,2024-08-08 00:00:00,573,Dr. Brown,33,94,On Time
+P016,199,Ibuprofen,2024-08-08 12:00:00,687,Dr. Jones,50,50,On Time
+P017,358,Amoxicillin,2024-08-09 00:00:00,388,Dr. Smith,67,74,On Time
+P018,307,Amoxicillin,2024-08-09 12:00:00,615,Dr. Taylor,34,56,On Time
+P019,393,Amoxicillin,2024-08-10 00:00:00,313,Dr. Jones,27,58,On Time
+P020,343,Amoxicillin,2024-08-10 12:00:00,541,Dr. Taylor,33,73,On Time
