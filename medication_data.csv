@@ -1,0 +1,24 @@
+patient_id,dosage,medication,administered_at,doctor_id,route_of_administration,frequency,schedule_adherence
+P001,200.0,Aspirin,2024-08-01 09:00:00,D001,Oral,Daily,On Time
+P001,150.0,Ibuprofen,2024-08-01 12:00:00,D001,Oral,As Needed,Delayed
+P001,80.0,Paracetamol,2024-08-01 18:00:00,D002,Oral,Daily,On Time
+P002,100.0,Paracetamol,2024-08-01 09:00:00,D003,Oral,As Needed,On Time
+P002,120.0,Ibuprofen,2024-08-01 18:00:00,D003,Oral,As Needed,Delayed
+P002,,Aspirin,2024-08-02 09:00:00,D001,Oral,Daily,On Time
+P003,200.0,Aspirin,2024-08-01 10:00:00,D002,Oral,Daily,On Time
+P003,150.0,Ibuprofen,2024-08-01 14:00:00,D002,Oral,As Needed,Delayed
+P003,50.0,Paracetamol,2024-08-02 09:00:00,D003,Oral,Daily,On Time
+P004,300.0,Paracetamol,2024-08-01 08:00:00,D001,Oral,Daily,On Time
+P004,250.0,Ibuprofen,2024-08-01 20:00:00,D001,Oral,As Needed,Delayed
+P005,500.0,Ibuprofen,2024-08-01 11:00:00,D004,Oral,Single Dose,On Time
+P006,100.0,Aspirin,2024-08-01 08:00:00,D002,Oral,Daily,On Time
+P006,50.0,Paracetamol,2024-08-01 12:00:00,D002,Oral,As Needed,Delayed
+P007,200.0,Ibuprofen,2024-08-01 09:00:00,D003,Oral,Daily,On Time
+P007,200.0,Ibuprofen,2024-08-02 09:00:00,D003,Oral,Daily,Delayed
+P007,200.0,Ibuprofen,2024-08-03 09:00:00,D003,Oral,Daily,On Time
+P008,150.0,Aspirin,2024-08-01 10:00:00,D001,Oral,Daily,On Time
+P008,150.0,Paracetamol,2024-08-01 14:00:00,D001,Oral,As Needed,Delayed
+P008,150.0,Ibuprofen,2024-08-01 18:00:00,D001,Oral,As Needed,On Time
+P009,250.0,Aspirin,2024-08-01 07:00:00,D004,Oral,Daily,On Time
+P009,300.0,Paracetamol,2024-08-01 17:00:00,D004,Oral,As Needed,Delayed
+P010,300.0,Ibuprofen,2024-08-01 08:00:00,D002,Oral,Single Dose,On Time
